@@ -1,0 +1,307 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 73,
+    "sha256": "f17512aeef2639f6bba66000f469e36910eb1e01a63471110d1091a250b6e988"
+  },
+  {
+    "path": "ASSETS.json",
+    "bytes": 15724,
+    "sha256": "ca200882f0c5ea4d7e54e51a9d2b5d328b0d8892f5a88c3fee696249b0c42ec7"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2001,
+    "sha256": "4fa5d8e2474f9778808d46f815ea069f8022918074ef88ecfc2f5f8033bf37f5"
+  },
+  {
+    "path": "app.js",
+    "bytes": 7041,
+    "sha256": "5a8ca254989b9e766429bb8f0486dccda598347586c39d2766a2d39ab59197f7"
+  },
+  {
+    "path": "docs/LOCAL-QA.md",
+    "bytes": 10695,
+    "sha256": "bf4debe8b494e783d77c6e8c944fc4699388c0b00411f860daff4cecc0b2b248"
+  },
+  {
+    "path": "index.html",
+    "bytes": 29301,
+    "sha256": "50e7857f99684219862e5a555cf1073580875045c5942ab57860235485b3fc45"
+  },
+  {
+    "path": "package.json",
+    "bytes": 404,
+    "sha256": "1dc2344c7be29c3a4ee4eca2fba6ca910672bc462e2e2680f14df79f2e05c454"
+  },
+  {
+    "path": "pnpm-lock.yaml",
+    "bytes": 13882,
+    "sha256": "c3df21b649f5b6454cd9172152a98ed832cf0d5b63133ccf0c5d655ac02ec0d9"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-01-large.webp",
+    "bytes": 331604,
+    "sha256": "e549f130b921b89b8641b8ff8f572225f4b62dd9f1e4928e8cfd4be36a59bfe9"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-01-thumb.webp",
+    "bytes": 68840,
+    "sha256": "b8fc7f682d1710376a74c9d79567767ef5f84369aa8d47ff9ea16df0968e8692"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-02-large.webp",
+    "bytes": 288528,
+    "sha256": "aa016f15d92ea22783357cbf3dba1bde6b42f3485b79b26a7c1084406f0cbada"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-02-thumb.webp",
+    "bytes": 61078,
+    "sha256": "30f621e4a0faf0879bf0f308394994511c16c8522badd7deb03d2eae16c8a181"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-03-large.webp",
+    "bytes": 211688,
+    "sha256": "1b0ffc92189ba9fcacfededf0caff485feba9fce05d840e9f3c3887c739de53e"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-03-thumb.webp",
+    "bytes": 51036,
+    "sha256": "6b65603e929be711a283a4fe0d3c04c0da278c1c63b796b5da2a38937ccb9fb1"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-04-large.webp",
+    "bytes": 267144,
+    "sha256": "285c4fe69f6149878376562c778c58e8f74e4493efa8f271013e896e81284ad8"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-04-thumb.webp",
+    "bytes": 58074,
+    "sha256": "e9beb40cbac1f6c6eadc326bc7be8f92e38fc2b82888cc435c892a9b068be5e3"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-05-large.webp",
+    "bytes": 308020,
+    "sha256": "4b44bbe53a8422f2e51f76ad8a01bfc55fb27eb7e5ccc9e38f4d3475fecdfbd0"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-05-thumb.webp",
+    "bytes": 58136,
+    "sha256": "7399dc7165f547be65216cadd634a7ed78a58abf89f1bed95ad89042720dd3c8"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-06-large.webp",
+    "bytes": 229562,
+    "sha256": "b0e41ab9db5e105412d74c5c2ed1baf4c690782990ed813c91d71044de59775b"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-06-thumb.webp",
+    "bytes": 46188,
+    "sha256": "94258af2146453901e62e5cb5d238d7bca0c0e4c7c2a88d720a802a7b7b3e489"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-07-large.webp",
+    "bytes": 240150,
+    "sha256": "315046027fd0ff9b87be505f081c47f855a644663dd9a7a9984b0e4f1a82b3df"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-07-thumb.webp",
+    "bytes": 45244,
+    "sha256": "62a94458c935e17fcc054f96fd1d73abc8b1a8bf7d9b87d6a85e0a68074cbb2d"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-08-large.webp",
+    "bytes": 229280,
+    "sha256": "c7656131cdf4e1052c0f6d840605e92fcd1238d093e1dfd0a0185ed5299bc959"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-08-thumb.webp",
+    "bytes": 47828,
+    "sha256": "42662e0bdec7f7d945f0872e63912df317caaa917bf60af903a5be64d93ed7c1"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-09-large.webp",
+    "bytes": 199676,
+    "sha256": "cdd566851a6a5d7d1f26117ad3775954daa9b9434a19ea9785693e532abf1bf3"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-09-thumb.webp",
+    "bytes": 47160,
+    "sha256": "d6d786594f04c043d2a7fb5a874f444c5295a5c54e6a565451b79d21a66f0dd2"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-10-large.webp",
+    "bytes": 224522,
+    "sha256": "bbbb24f0fdb7afcf814f3a1bc693fcf0b1c4633db0ee07ab774b9fddbda96587"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-10-thumb.webp",
+    "bytes": 43388,
+    "sha256": "95da4ba61e51d550ab52a6376f5c57bd621116da50aa256e9b1a91958f807c0f"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-11-large.webp",
+    "bytes": 287640,
+    "sha256": "8a222d45e6634eecee34dba79e06b086b18d79477772ae38d4d97c41f72256df"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-11-thumb.webp",
+    "bytes": 55744,
+    "sha256": "2251a6beb06d1982eeade45d3aee280c05630f76ff565076cb1cc8e841efb06e"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-12-large.webp",
+    "bytes": 251138,
+    "sha256": "98a5184eb3b9cd98d75604a04b2c9ca9537b9d6ce5fd9dde719ba2c827ce1b9c"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-12-thumb.webp",
+    "bytes": 50792,
+    "sha256": "57f59de8d8cb176fd9a2913056815332ae97014eb44b66a5f467b86df336e4f0"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-13-large.webp",
+    "bytes": 155746,
+    "sha256": "22b68ed2c1df5382ee04acaa4350d087dfdd926f8327636f9441f309320898ec"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-13-thumb.webp",
+    "bytes": 30212,
+    "sha256": "3c88bc054a85ef188ff8048c5d25f37e40d0a148d3ea029a6cb0145ea778bbe4"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-14-large.webp",
+    "bytes": 295762,
+    "sha256": "c47c8d70902011e88ff2a44ce2cd36294945e2ac9c35ca06f1812109fc602c45"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-14-thumb.webp",
+    "bytes": 62150,
+    "sha256": "34b7ec3a555b36690f487dfdad35fe5caa8f4b07545ec7e500a198e4e648d561"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-15-large.webp",
+    "bytes": 398576,
+    "sha256": "d95ad6bee54f6da28edec6efdaf212b27b2cd28f5074fa3adefe02803d798b37"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-15-thumb.webp",
+    "bytes": 57858,
+    "sha256": "768b76b940b4d699b7a73d9bf32edf797eddc62b43dc773ed047fa5e5c566d26"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-16-large.webp",
+    "bytes": 150882,
+    "sha256": "4e5957882d6826cffb14d51b00eeeb72548cc7f16c2925866e0aa22e65ca84ba"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-16-thumb.webp",
+    "bytes": 35534,
+    "sha256": "9307eeeb42e4d8a235b27f963ec35411ba7b838dbe4543ea56b7141954785143"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-group-large.webp",
+    "bytes": 228062,
+    "sha256": "915c7cfd2a16fbd66b6345e42b0fceed32d47059d0af8b1e9e1414aba88d1958"
+  },
+  {
+    "path": "public/assets/christmas-2025/christmas-2025-group-thumb.webp",
+    "bytes": 51508,
+    "sha256": "49e1bc8de50627734d02b13436dc89fb79b27d0ba0505814b0c2e2d04f10a7d0"
+  },
+  {
+    "path": "public/assets/logo-dark.svg",
+    "bytes": 6204,
+    "sha256": "c301f97df9f2b34ebdcfef689bcd04a68def528bb84e77d3f70ca2e314949e2e"
+  },
+  {
+    "path": "public/assets/logo-light.svg",
+    "bytes": 6222,
+    "sha256": "770ba22d9f772138d42901b61d5fe597a1c41577384a9a261418aab787764693"
+  },
+  {
+    "path": "public/assets/memory-01.webp",
+    "bytes": 27108,
+    "sha256": "7fefc2140ca6184224cc3128ec9a46b959276a751a94c44586590679581df602"
+  },
+  {
+    "path": "public/assets/memory-02.webp",
+    "bytes": 40876,
+    "sha256": "992c20ede2ad79a5ebc822c032c22719f73586f20fad190347854a52e413bfc5"
+  },
+  {
+    "path": "public/assets/memory-03.webp",
+    "bytes": 47922,
+    "sha256": "0cbf84c2730b4655a820aad0f4ddff2d9d64e2023dedfd24ddc48a9126b8169b"
+  },
+  {
+    "path": "public/assets/memory-04.webp",
+    "bytes": 26826,
+    "sha256": "1b0cb13af28d6897f3f5dc387d2681686285278bbb4e3b9ca5d7bd41c492e167"
+  },
+  {
+    "path": "public/assets/memory-05.webp",
+    "bytes": 21472,
+    "sha256": "7d430c941e40278e5749da17e9aae0fed1703f7c3eae5e557e660afea47bf3e3"
+  },
+  {
+    "path": "public/assets/memory-06.webp",
+    "bytes": 32946,
+    "sha256": "34504e42009f927e04c238da3b01b4674b3d6bf36f49567c70620694a87630fe"
+  },
+  {
+    "path": "public/assets/memory-07.webp",
+    "bytes": 26558,
+    "sha256": "ae5abe78e0c0fadb0ebfbef17136ec97e34c39b7292a6957fad04ef7e7341133"
+  },
+  {
+    "path": "public/assets/memory-08.webp",
+    "bytes": 32240,
+    "sha256": "38b51540697b00141e734f77b0d8f9b8046f543aeae3bf584a2f35626337de05"
+  },
+  {
+    "path": "public/assets/memory-09.webp",
+    "bytes": 19838,
+    "sha256": "747c071a155efdfb61b884c84c5107b81feafe515d8c7c2a6166ce24cbd63d75"
+  },
+  {
+    "path": "public/assets/memory-10.webp",
+    "bytes": 26466,
+    "sha256": "bd70734ee904d74f108954081fcb08b3f91edddd59604c425ad878d8fce98005"
+  },
+  {
+    "path": "public/assets/orchestra.webp",
+    "bytes": 57852,
+    "sha256": "42cc43944e6a221d2f65207d0311130aa8c63f7df34f5697b2961585f11c912b"
+  },
+  {
+    "path": "public/assets/renaissance-exterior.jpg",
+    "bytes": 155142,
+    "sha256": "1065831726f190fc1fe1ac0ff1cb82e67d2246960572435640d25e2c1e2da152"
+  },
+  {
+    "path": "public/assets/seating-map.svg",
+    "bytes": 426126,
+    "sha256": "219e9b5357c0746c2cba63e0e14c7b148f88b7c62cbf0ca65ca44714ed291d08"
+  },
+  {
+    "path": "public/assets/ttc2026-banner.webp",
+    "bytes": 442224,
+    "sha256": "b437ed005e4fc64d4f77e6ba6c2eeaea6047c10177a1ecc383453e88845f21ba"
+  },
+  {
+    "path": "public/assets/ttc2026-poster.webp",
+    "bytes": 495566,
+    "sha256": "820a3f511c816d92de7faa51b2e211fbb67a5c53cf06b4a12720ca8f417e39c4"
+  },
+  {
+    "path": "public/favicon.svg",
+    "bytes": 207,
+    "sha256": "cf0ee768f0e8ccfa8018eddc8198891c2b44166a7a398ee936e4d47b0b5a84ec"
+  },
+  {
+    "path": "styles.css",
+    "bytes": 46362,
+    "sha256": "02b6fce99433d505ab8ab1b2998e4a66deb32f22213e1180bf3ddaeefd72c196"
+  }
+]
