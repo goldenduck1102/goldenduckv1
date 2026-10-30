@@ -16,8 +16,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 2583,
-    "sha256": "c937363ca27c3d7c15ef71626808773149a4d1a95ef25d1842cd0028b6a6e36f"
+    "bytes": 2585,
+    "sha256": "7b11cb8c0f68a0aa521a2c1b28d35353741faf7181d4c4fa8861e91807994d93"
   },
   {
     "path": "app.js",
@@ -31,8 +31,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 29409,
-    "sha256": "1dea2a8798e55c3ceb574b24148555cac5c0044fd2bfc7098d091bcaa9d6b2ec"
+    "bytes": 29317,
+    "sha256": "8fa680e21cfdfe1c21602728928a74ef9edcf71698ade1f3b364827764cc5bdb"
   },
   {
     "path": "package.json",
@@ -311,7 +311,7 @@
   },
   {
     "path": "vite.config.js",
-    "bytes": 184,
-    "sha256": "64c0dd5ab05bb5300cfb5c6aedcd144644f06683792e4872e983f4ea404a3356"
+    "bytes": 678,
+    "sha256": "e0da0c89b9cb329d39fdf7780ce955003fef3d7a4e40d3b978e496e7e6b4fa7f"
   }
 ]

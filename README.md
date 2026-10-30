@@ -1,4 +1,4 @@
-# ATOTC V1 — A Tale of Two Christmas 2026
+# ATOTC V1 — A TALE OF TWO CHRISTMASES 2026
 
 GitHub: https://github.com/goldenduck1102/goldenduckv1
 
