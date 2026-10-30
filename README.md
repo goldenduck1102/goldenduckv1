@@ -45,3 +45,18 @@ Gói không kèm `node_modules` hoặc ảnh gốc dung lượng lớn trong Dow
 - Font Lora và Be Vietnam Pro tải từ Google Fonts; Google Maps cần kết nối Internet.
 - Trang giới thiệu, chuyển người mua sang hệ thống OrcheStars để đặt vé.
 - Bản build đã kiểm tra thành công trước khi đóng gói. Chưa deploy bản này.
+
+## GitHub Pages
+
+Workflow: `.github/workflows/pages.yml`, xuất bản sau mỗi lần push vào `main` hoặc chạy thủ công.
+Trong Settings → Pages, chọn Source: GitHub Actions. Tài khoản phải hỗ trợ Pages cho visibility của repository.
+
+Đường dẫn dự kiến sau khi bật Pages và deploy thành công: https://goldenduck1102.github.io/goldenduckv1/
+
+Build mô phỏng Pages từ máy local:
+
+```sh
+GITHUB_REPOSITORY=goldenduck1102/goldenduckv1 pnpm build
+```
+
+`pnpm dev` và `pnpm build` không có biến trên vẫn dùng đường dẫn gốc `/`.

@@ -1,5 +1,10 @@
 [
   {
+    "path": ".github/workflows/pages.yml",
+    "bytes": 1243,
+    "sha256": "fb9985542508f6551bcd67f67b253faec51f3ab406d3a40683895156ea16ff36"
+  },
+  {
     "path": ".gitignore",
     "bytes": 73,
     "sha256": "f17512aeef2639f6bba66000f469e36910eb1e01a63471110d1091a250b6e988"
@@ -11,8 +16,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 2001,
-    "sha256": "4fa5d8e2474f9778808d46f815ea069f8022918074ef88ecfc2f5f8033bf37f5"
+    "bytes": 2583,
+    "sha256": "c937363ca27c3d7c15ef71626808773149a4d1a95ef25d1842cd0028b6a6e36f"
   },
   {
     "path": "app.js",
@@ -26,8 +31,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 29301,
-    "sha256": "50e7857f99684219862e5a555cf1073580875045c5942ab57860235485b3fc45"
+    "bytes": 29409,
+    "sha256": "1dea2a8798e55c3ceb574b24148555cac5c0044fd2bfc7098d091bcaa9d6b2ec"
   },
   {
     "path": "package.json",
@@ -303,5 +308,10 @@
     "path": "styles.css",
     "bytes": 46362,
     "sha256": "02b6fce99433d505ab8ab1b2998e4a66deb32f22213e1180bf3ddaeefd72c196"
+  },
+  {
+    "path": "vite.config.js",
+    "bytes": 184,
+    "sha256": "64c0dd5ab05bb5300cfb5c6aedcd144644f06683792e4872e983f4ea404a3356"
   }
 ]
